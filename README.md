@@ -1,1 +1,2 @@
 # AI-Virtual-Mouse
+An AI virtual mouse using computer vision (CV) refers to a system that enables controlling a computer's cursor without a physical mouse. It utilizes computer vision algorithms to detect and track hand or finger movements via a camera. The system interprets these movements, such as gestures or position changes, and translates them into mouse actions like clicking, scrolling, or pointer movement. This technology is commonly used in assistive technologies, gaming, and user interface design.
